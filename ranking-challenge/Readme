@@ -6,3 +6,6 @@ Challenge is to find the hightest rank for each Name value and create a new colu
 as many times as it is encountered. 
 
 To solve this I have used random functions from numpy module and dataframe functions from Pandas module. 
+
+Note: There are two versions of jupyter notebooks. 1. ranking.ipynb uses an excel file as it's data source, whereas 
+  2. ranking_pandas.ipynb creates data as part of the code. 
