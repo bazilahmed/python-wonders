@@ -1,0 +1,8 @@
+Challenge: 
+
+If I were given a data file with just 2 columns - Name and Rank. 
+Name column has values which are repeated as well as Rank column. 
+Challenge is to find the hightest rank for each Name value and create a new column repeating the highest rank for each specific name
+as many times as it is encountered. 
+
+To solve this I have used random functions from numpy module and dataframe functions from Pandas module. 
